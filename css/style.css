@@ -1,0 +1,71 @@
+/*commonstart*/
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	color: #626262;
+}
+.c_h1{
+	margin-top: 20px;
+	margin-bottom: 30px;
+	font-size: 30px;
+	font-weight: 400;
+}
+.c_h11{
+	color: #333333;
+	margin-top: 0;
+	margin-bottom: 70px;
+}
+/*commonend*/
+/*newsstart1*/
+.news{
+	height: 100px;
+	padding: 70px 0;
+	background-color: #ddd;
+}
+.wrapper1{
+	margin: 0 auto;
+	overflow: 	hidden;	
+}
+.signup{
+	text-align: center;
+}
+.c_h11{
+	color: #333333;
+	margin-top: 0;
+	margin-bottom: 70px;
+}
+.s_form{
+	 position: relative;
+     width: 400px;
+     margin: 0 auto;
+}
+.s_form input{
+	font-family: 'Playfair Display', serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #626262;
+	width: 362px;
+	height: 45px;
+	border: none;
+	border-bottom: 1px solid #000000;
+	padding-left: 2px;
+	padding-right: 34px;
+}
+.s_form input:focus{
+	outline: none;
+}
+.s_form button{
+	position: absolute;
+	background: transparent;
+	border: none;
+	cursor: pointer;
+	top: 14px;
+	right: 0px;
+}
+.s_form button:focus{
+	outline: none;
+}
+.s_form image{}
+/*newsend1*/
